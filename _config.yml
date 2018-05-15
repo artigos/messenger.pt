@@ -1,0 +1,5 @@
+permalink: /:title
+post_dirs: false
+markdown: kramdown
+gems:
+  - jekyll-sitemap

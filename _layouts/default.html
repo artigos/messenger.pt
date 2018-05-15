@@ -1,0 +1,22 @@
+{% include top.html %}
+
+<body>
+  {% include cookie.html %}
+  <div class="wrapper">
+    {% include header.html %}
+
+    <section>
+      {{ content }}
+      {% include ad_block.html %}
+      <hr/>
+      <div class="disqus">
+        {% include disqus.html %}
+      </div>
+    </section>
+
+    {% include footer.html %}
+  </div>
+  {% include analytics.html %}
+
+</body>
+</html>
