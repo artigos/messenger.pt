@@ -4,6 +4,8 @@ title: Messenger
 overview: true
 ---
 
+<img src="{{ "/assets/messenger.png" | absolute_url }}" />
+
 Messenger é um serviço instantâneo de troca de mensagens lançado pelo Facebook. No entanto, ao contrário da maioria dos aplicativos de mensagens de texto, o Messenger pode fazer muito mais do que apenas enviar textos.
 
 O Facebook Messenger foi lançado em agosto de 2011, após a aquisição de um aplicativo de mensagens em grupo chamado Beluga. Embora seja de propriedade e operado pelo Facebook, o aplicativo e o site são completamente separados do Facebook.com.
